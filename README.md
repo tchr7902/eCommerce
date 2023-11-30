@@ -8,7 +8,7 @@ This project solidified my knowledge of models, api routes, how to use Sequelize
 
 ## Usage
 
-[Video Walkthrough!](https://drive.google.com/file/d/1WZ8aKk7wV0MwZUowDn4dUnJW-Us27c58/view?usp=sharing)
+[Video Walkthrough!](https://drive.google.com/file/d/1U0zO8gzr36jcyeAYF5DahAU0k8oMtFHh/view?usp=sharing)
 
 ## Credits
 
